@@ -96,9 +96,11 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </html>
 
 ## OUTPUT:
+![severside](https://user-images.githubusercontent.com/121156360/215421860-8a16aaa2-0b73-4166-a7cf-642de808a3e7.png)
+![serverside](https://user-images.githubusercontent.com/121156360/215421872-99a39c4c-edaf-44af-8115-08bbd899cf93.png)
 
-### Home Page:
 
 
 ## Result:
+![image](https://user-images.githubusercontent.com/121156360/215421607-b391087f-7048-4593-8f2e-ed34914bebfc.png)
 
